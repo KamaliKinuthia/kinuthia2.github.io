@@ -1,2 +1,3 @@
 # kinuthia2.github.io
-hosting a css and javascript portifolio
+css and javascript portifolio
+static webpage
